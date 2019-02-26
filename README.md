@@ -1,4 +1,8 @@
 # Book-Analysis
+&nbsp;
+Java , MySQL , n tiered architecture , Java Swing 
+&nbsp;
+
 You can vote and read books together with this project.It offers the most suitable books for you with similarity algorithm.
 
 &nbsp;&nbsp;&nbsp;&nbsp;
